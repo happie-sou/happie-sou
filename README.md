@@ -105,7 +105,7 @@ Supermarket billing (06/2018 – 09/2018)
 **AWARDS AND ACHIEVEMENTS**
 
       • Conducted a scintillating talk in the One Day Seminar on From Prototype to Full-Scale Business Process: Key Steps, organised by the Department of Nxt-Gen Computing, SIMATS Engineering, Chennai.
-      • Won third place in the E-Tibet Hackathon – Citizenship Benefits (Education) [https://bit.ly/eTibet, https://etibet.co], a digital country experiment organised by the Draper Nation and sponsored by Nishith Desai Associates in Draper Startup House India, Bangalore. (2025)
+      • Won third place in the E-Tibet Hackathon – Citizenship Benefits (Education), a digital country experiment organised by the Draper Nation and sponsored by Nishith Desai Associates in Draper Startup House India, Bangalore. (2025)
       • Conducted workshop on The Art of UI/UX: Crafting Exceptional User Experiences in Alumnae TechSavvy Series organised by the Department of Computer Science in connection with the department’s Silver Jubilee Celebration at Stella Maris College. (2023)
       • Won the General Proficiency Award, which is given annually to the top two performers of a class for their achievements in the year. (2018-19) 
       • Held the position of Class Representative for the academic year 2018-19.
