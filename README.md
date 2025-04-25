@@ -74,12 +74,12 @@ Graduate Trainee -> 04/2021 – 12/2021
 
 **TECHNICAL SKILLS**
 
-      _Programming Languages:_ Java, C++, C#, PHP, C
-      _Web Development:_ UI/UX Designer, HTML, CSS, XML, JavaScript, React (Vite), Zoho Creator Low-Code Platform
-      _Databases:_ Oracle, MySQL, Google Firestore
-      _CSS Frameworks:_ Bootstrap, Tailwind CSS
-      _React UI Frameworks:_ Ant Design, Shadcn, MUI, React Bootstrap
-      _Others:_ GIT, GitHub, Linux
+      Programming Languages: Java, C++, C#, PHP, C
+      Web Development: UI/UX Designer, HTML, CSS, XML, JavaScript, React (Vite), Zoho Creator Low-Code Platform
+      Databases: Oracle, MySQL, Google Firestore
+      CSS Frameworks: Bootstrap, Tailwind CSS
+      React UI Frameworks: Ant Design, Shadcn, MUI, React Bootstrap
+      Others: GIT, GitHub, Linux
 
 **PROJECTS**
 
