@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 📫 How to reach me: soundharyaselvaraaj@outlook.in
 
 The following accomplishments significantly enriched my resume, adding two extra pages—too much to fit in. Thankfully, GitHub offers space to showcase them all.
+
 **PROJECTS:**
 SMC Square – SMC2 (11/2019 – 09/2020)
       •	Developed using Java, XML, and Google Firebase (Firebase Authentication, Storage, Firestore).
