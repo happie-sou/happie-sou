@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on building DigiKyeVerse, the project born in the E-Tibet digital country hackathon.
+🔭 I’m currently working on building DigiKyeVerse, the project born in the E-Tibet digital country hackathon. [https://bit.ly/eTibet, https://etibet.co]
 
 📫 How to reach me: soundharyaselvaraaj@outlook.in
 
